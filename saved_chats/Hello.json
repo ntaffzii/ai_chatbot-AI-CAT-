@@ -1,0 +1,44 @@
+{
+    "chats": [
+        {
+            "sender": "user",
+            "username": "กดเหกดกห",
+            "message": "Hello"
+        },
+        {
+            "sender": "CAT AI",
+            "username": "CAT AI",
+            "message": "Hello! How can I assist you today? 😊"
+        },
+        {
+            "sender": "user",
+            "username": "กดเหกดกห",
+            "message": "who are you"
+        },
+        {
+            "sender": "CAT AI",
+            "username": "CAT AI",
+            "message": "Greetings! I'm DeepSeek-R1, an artificial intelligence assistant created by DeepSeek. I'm at your service and would be delighted to assist you with any inquiries or tasks you may have."
+        },
+        {
+            "sender": "user",
+            "username": "NT",
+            "message": "what I'm"
+        },
+        {
+            "sender": "CAT AI",
+            "username": "CAT AI",
+            "message": "Hello! It seems like your message is a bit unclear. Could you clarify or provide more details about what you're asking? I'd be happy to help! 😊"
+        },
+        {
+            "sender": "user",
+            "username": "NT",
+            "message": "my name is nut"
+        },
+        {
+            "sender": "CAT AI",
+            "username": "CAT AI",
+            "message": "Hello, Nut! 😊 How can I assist you today? Whether you need help with something or just want to chat, I'm here for you!"
+        }
+    ]
+}

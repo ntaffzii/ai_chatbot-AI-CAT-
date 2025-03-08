@@ -1,0 +1,24 @@
+{
+    "chats": [
+        {
+            "sender": "user",
+            "username": "กดเหกดกห",
+            "message": "Hello"
+        },
+        {
+            "sender": "CAT AI",
+            "username": "CAT AI",
+            "message": "Hello! How can I assist you today? 😊"
+        },
+        {
+            "sender": "user",
+            "username": "กดเหกดกห",
+            "message": "who are you"
+        },
+        {
+            "sender": "CAT AI",
+            "username": "CAT AI",
+            "message": "Greetings! I'm DeepSeek-R1, an artificial intelligence assistant created by DeepSeek. I'm at your service and would be delighted to assist you with any inquiries or tasks you may have."
+        }
+    ]
+}
