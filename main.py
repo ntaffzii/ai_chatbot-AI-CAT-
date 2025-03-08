@@ -1,5 +1,4 @@
 import sys
-import re
 import DataChat as d
 import os
 import json
