@@ -8,3 +8,5 @@ user1: Admin, pass: 123456;
 user2: Goku, pass: 2548; 
 user3: stu67, pass: 1234, 
 etc. Enjoy chatting with the chatbot!"
+
+(RUN main.py)
